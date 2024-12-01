@@ -10,7 +10,7 @@ I am a computer science student at CSUF and I expect to graduate 2028
 
 * Lab 8, part 2
 
-This was my second favorite lab because part 2 taught me how to play the game poker. In class we even was tought how it was played and everyone enjoyed playing it and knowing that coding this will be challenging. It was challenging but me and my partner figured out how to over this problem and succeded. 
+  This was my second favorite lab because part 2 taught me how to play the game poker. In class we even was tought how it was played and everyone enjoyed playing it and knowing that coding this will be challenging. It was challenging but me and my partner figured out how to over this problem and succeded. 
 
 * Lab 4 part 1
 
